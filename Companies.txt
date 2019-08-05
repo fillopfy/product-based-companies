@@ -1,0 +1,97 @@
+1. Microsoft
+2. Google
+3. Facebook
+3. IBM
+Oracle
+Twitter
+4. Amazon
+5. Dell EMC
+6. BMC Software
+7. Paypal
+8. Oracle
+9. CISCO
+10. VMWare
+11. Redhat
+12. Drupal
+13. Symantec
+14. Adobe
+15. Allscripts
+16. Flipkart
+17. Myntra
+18. Jabong
+19. Zoho
+20. InMobi
+21. Hewlett-Packard
+22. Intuit
+23. Druva
+23. Wingify
+25. BrowserStack
+26. Zomato
+27. SAP
+28. Ola
+29. Oyo
+30. Snapdeal
+31. Swiggy
+32. Accelerite Persistent Systems
+33. AdNear
+34. Capillary Technologies
+35. Eka Software Solutions
+36. Freshdesk
+37. IBS Software Services
+38. Ilantus Technologies
+39. InfrasoftTech
+40. Kayako
+41. Nucleus Software
+42. Qubole
+43. Wingify
+42. Wooqer
+43. Pegasystems
+44. Salesforce
+45. SAP SE
+46. Paytm
+47. Citrix
+48. Juniper Networks
+49. Directi
+
+
+Other IT product based companies
+1. Xactly corporation
+2. Livestream Technologies
+3. Sanovi
+4. Aryaka Neetworks
+5. Appnomic Systems
+6. Aruba Networks
+7. Emulex
+8. Keste
+9. Kronos
+10. Xora
+11. Source Edge
+12. Seclore
+13. Sandvine
+14. Razorsight
+15. Netweb Technologies
+16. Real Image
+17. Netapp
+18. Droom - Drop CV on careers page
+19. Indiamart - Drop CV on careers page
+20. Expedia
+21. Unicommerce
+22. Gnani.ai
+
+
+
+
+
+Skills needed:
+1. Programming and OOPs
+2. **DS and Algo
+3. **Analytical skills & Problem solving ability
+4. Projects
+5. Open Source contributions
+6. Core CS subjects
+	C - structures, pointers, arrays, functions
+	DBMS
+	OS/Networks
+7. Internships
+
+"You have to be really careful because no one is going to care for you"
